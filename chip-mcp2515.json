@@ -1,0 +1,21 @@
+{
+  "name": "MCP2515",
+  "type": "chip",
+  "pins": [
+    "INT", "SCK", "SI", "SO", "CS", "GND", "VCC", "TXCAN", "RXCAN"
+  ],
+  "width": 100,
+  "height": 60,
+  "label": "MCP2515",
+  "pinLocations": {
+    "INT": "left",
+    "SCK": "left",
+    "SI": "left",
+    "SO": "left",
+    "CS": "left",
+    "GND": "bottom",
+    "VCC": "top",
+    "TXCAN": "right",
+    "RXCAN": "right"
+  }
+}

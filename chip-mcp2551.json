@@ -1,0 +1,18 @@
+{
+  "name": "MCP2551",
+  "type": "chip",
+  "pins": [
+    "TXD", "RXD", "VCC", "GND", "CANH", "CANL"
+  ],
+  "width": 100,
+  "height": 50,
+  "label": "MCP2551",
+  "pinLocations": {
+    "TXD": "left",
+    "RXD": "left",
+    "VCC": "top",
+    "GND": "bottom",
+    "CANH": "right",
+    "CANL": "right"
+  }
+}
