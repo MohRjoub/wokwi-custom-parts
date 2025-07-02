@@ -1,0 +1,17 @@
+{
+    "name": "OBD2 ECU",
+    "type": "chip",
+    "label": "OBD2",
+    "width": 100,
+    "height": 60,
+    "pins": [
+      "6", "14", "16", "4", "5"
+    ],
+    "pinLocations": {
+      "6": "left",
+      "14": "left",
+      "16": "top",
+      "4": "bottom",
+      "5": "bottom"
+    }
+  }
